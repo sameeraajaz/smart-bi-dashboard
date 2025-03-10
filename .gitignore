@@ -1,0 +1,22 @@
+# Python & Streamlit
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.env
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Data & models
+*.csv
+!sample_data/enhanced_business_dataset.csv
+*.xlsx
+*.pkl
+*.sav
